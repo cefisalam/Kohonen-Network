@@ -22,5 +22,5 @@ An Implementation of Kohonen Network for Classification
 	7. Click "Reset" to clear the GUI
 
 
-   # Note: To run multiple Test files for the same training data 'Don't click Reset'. Simply load the dataset and click "Test Network".
+   ### Note: To run multiple Test files for the same training data 'Don't click Reset'. Simply load the dataset and click "Test Network".
 
