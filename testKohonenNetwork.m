@@ -1,5 +1,5 @@
 function Result = testKohonenNetwork(Test_data, Weights, Cluster_type)
-%% TRAINKOHONENNETWORK classifies the Clusters based on the Synaptic Weights obtained from Training phase
+%% TESTKOHONENNETWORK classifies the Clusters based on the Synaptic Weights obtained from Training phase
 
 % Inputs
 %     Test_data     - Dataset to Classify
